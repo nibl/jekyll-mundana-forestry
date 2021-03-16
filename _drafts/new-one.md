@@ -1,0 +1,11 @@
+---
+layout: post
+categories: []
+title: New one
+author: Mc
+image: "/assets/images/ff442c1b-b924-46eb-b7b4-90fc77c66a79.jpeg"
+
+---
+And the text fot thr test
+
+incskk jsig
